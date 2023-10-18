@@ -1,7 +1,7 @@
 # Great resources on research skills
-This repo is create to store good research resources created by other people.
+This repo is created to store good research resources created by other people.
 
-Here are some pointers to some other excellent resources on research skills, made by other people.
+Here are some pointers to some other excellent resources on research skills made by other people.
 
 Read [Research Skills](https://simon.peytonjones.org/research-skills/) by S. Peyton Jones.
 
@@ -17,21 +17,21 @@ Read [Research Skills](https://simon.peytonjones.org/research-skills/) by S. Pey
 
 ## Technical writing
 
-- [Writing and speaking with style](path/to/file.pdf), Benjamin Pierce and Rajeev Alur, 2023.
-- [Notes on presenting theses](path/to/notes.pdf), edited by Aaron Sloman.
-- [A scrutiny of the abstract](path/to/abstract.pdf), by Kenneth Landes in Geological Notes.
-- [Norman Ramsey's notes](path/to/ramsey-notes.pdf) about his class on Technical Writing.
-- [Mathematical Writing](path/to/math-writing.pdf), by Donald E. Knuth et al.
-- [How to Write Mathematics](path/to/halmos-guide.pdf), by PR Halmos.
-- Derek Dreyer’s excellent PLMW talk [“How to write papers so that people can read them”](path/to/slides.pdf) ([video](path/to/video.mp4)).
-- [Blog post](path/to/igor-blog.pdf) by Igor Pak on ‘How to write math papers clearly’.
+- [Writing and speaking with style](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE), Benjamin Pierce and Rajeev Alur, 2023.
+- [Notes on presenting theses](https://www.cs.bham.ac.uk/research/projects/poplog/teach/theses.pdf), edited by Aaron Sloman.
+- [A scrutiny of the abstract](https://www.microsoft.com/en-us/research/uploads/prod/2016/06/scrutiny.pdf), by Kenneth Landes in Geological Notes.
+- [Norman Ramsey's notes](https://www.cs.tufts.edu/~nr/pubs/two-abstract.html) about his class on Technical Writing.
+- [Mathematical Writing](http://tex.loria.fr/typographie/mathwriting.pdf), by Donald E. Knuth et al.
+- [How to Write Mathematics](http://www.stat.rice.edu/~riedi/Halmos.html), by PR Halmos.
+- Derek Dreyer’s excellent PLMW talk [“How to write papers so that people can read them”]([path/to/slides.pdf](https://people.mpi-sws.org/~dreyer/talks/talk-plmw21icfp.pdf)) ([video](https://www.youtube.com/watch?v=PM1Atui30qU)).
+- [Blog post](https://igorpak.wordpress.com/2017/07/12/how-to-write-math-papers-clearly/) by Igor Pak on ‘How to write math papers clearly’.
 
 ## Giving talks
 
-- Emery Berger’s [guide for session chairs](path/to/emery-guide.pdf).
-- Nick Nethercote's [useful 2-page guide](path/to/nick-guide.pdf) about giving a talk.
+- Emery Berger’s [guide for session chairs](https://emeryblogger.com/2016/06/08/a-guide-for-session-chairs/).
+- Nick Nethercote's [useful 2-page guide](http://www.cs.um.edu.mt/gordon.pace/Teaching/HowToPresentAPaper/SupplementaryReading/nethercote.pdf) about giving a talk.
 
 ## Advice about presenting data
 
-- [Producing wrong data without doing anything obviously wrong!](path/to/data-wrong.pdf) Mytkowicz, Diwan, Hauswirth and Sweeney, ASPLOS 2009.
-- [How not to lie with statistics – the correct way to summarise benchmark results](path/to/statistics-guide.pdf) Fleming & Wallace, CACM 29(3), pp218-221, March 1986.
+- [Producing wrong data without doing anything obviously wrong!](http://portal.acm.org/citation.cfm?id=1508244.1508275) Mytkowicz, Diwan, Hauswirth and Sweeney, ASPLOS 2009.
+- [How not to lie with statistics – the correct way to summarise benchmark results](http://portal.acm.org/citation.cfm?id=5666.5673&coll=GUIDE&dl=GUIDE&CFID=106744944&CFTOKEN=90490737) Fleming & Wallace, CACM 29(3), pp218-221, March 1986.
