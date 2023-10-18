@@ -35,3 +35,8 @@ Read [Research Skills](https://simon.peytonjones.org/research-skills/) by S. Pey
 
 - [Producing wrong data without doing anything obviously wrong!](http://portal.acm.org/citation.cfm?id=1508244.1508275) Mytkowicz, Diwan, Hauswirth and Sweeney, ASPLOS 2009.
 - [How not to lie with statistics – the correct way to summarise benchmark results](http://portal.acm.org/citation.cfm?id=5666.5673&coll=GUIDE&dl=GUIDE&CFID=106744944&CFTOKEN=90490737) Fleming & Wallace, CACM 29(3), pp218-221, March 1986.
+
+## How to read papers
+
+- ["How to Read a Paper" slides]() talk by Sam hopkins, MIT.
+- ["How to Read a Paper" paper]() by S. Keshav.
