@@ -43,3 +43,4 @@ Read [Research Skills](https://simon.peytonjones.org/research-skills/) by S. Pey
 
 ## PhD
 - ["博士这五年"](https://zhuanlan.zhihu.com/p/25099638) by 李沐.
+- ["博士五年总结"](https://yuandong-tian.com/blogs/five_year_summary_of_PhD.pdf) by 田渊栋.
