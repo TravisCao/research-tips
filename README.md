@@ -40,8 +40,8 @@ Read [Research Skills](https://simon.peytonjones.org/research-skills/) by S. Pey
 
 - ["How to Read a Paper" slides](resources/reading-paper/how-to-read-papers.pdf) talk by Sam hopkins, MIT.
 - ["How to Read a Paper" paper](resources/reading-paper/HowtoReadPaper.pdf) by S. Keshav.
-- ["A Survival Guide to a PhD"](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.
 
 ## PhD
 - ["博士这五年"](https://zhuanlan.zhihu.com/p/25099638) by 李沐.
 - ["博士五年总结"](https://yuandong-tian.com/blogs/five_year_summary_of_PhD.pdf) by 田渊栋.
+- ["A Survival Guide to a PhD"](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.
